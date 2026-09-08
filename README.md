@@ -7,7 +7,7 @@ Manipal University Jaipur
 
 ## About Me
 
-* Third-year engineering student focused on building strong technical fundamentals
+* Fourth-year engineering student focused on building strong technical fundamentals
 * Interested in Artificial Intelligence, systems, and problem solving
 * Actively working on Data Structures and Algorithms and real-world projects
 * Experience in hackathons and research environments
